@@ -14,6 +14,11 @@ body{
     padding: 40px,20px;
 }
 
+.card{
+    margin-bottom: 40px;
+    margin: 40px;
+}
+
 /* <!--Title'sPadding and Font Format> */
 h1{
     padding: 20px 2-px;
