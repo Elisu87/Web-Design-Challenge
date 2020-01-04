@@ -1,0 +1,50 @@
+/* <!--Padding between header and body--> */
+header{
+    left: 0;
+    top: 0;
+    width: 100%;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    font-family: calibri;
+}
+/* <!--Giving the body a grey background--> */
+body{
+    font-family: calibri;
+    background-color: #E8E8E8;
+    padding: 40px,10px;
+}
+
+/* <!--Title'sPadding and Font Format> */
+h1{
+    padding-left: 20px;
+    padding-top: 30px;
+    font-weight: bold;
+}
+
+.card{
+    margin-bottom: 20px;
+}
+
+p{
+    padding-left: 20px;
+}
+
+h3{
+    font-family: calibri;
+    font-weight: bold;
+    padding: 20px;
+}
+
+/* <!--Footer Format> */
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-family: calibri;
+    background-color: grey;
+    font-weight: bold;
+    color:white;
+    border-top: solid #158CBA; 
+    text-align-last: center;
+}
