@@ -2,7 +2,7 @@
 
 ## Description
 
-Created a visualization dashboard website  with individual pages to analyze how weather changes as you get closer to the equator by pulling data from the OpenWeatherMap API to assemble a dataset on over 500 cities(Refer to Python API Repo). Factors looked included: temperature, cloudiness, wind speed, and humidity.
+Created a visualization dashboard website  with individual pages to analyze how weather changes as you get closer to the equator by pulling data from the OpenWeatherMap API to assemble a dataset on over 500 cities(Refer to Python API Repo https://github.com/Elisu87/Python-API-Challenge/blob/master/README.md). Factors looked included: temperature, cloudiness, wind speed, and humidity.
 
 ## Technologies
 - html
@@ -10,7 +10,7 @@ Created a visualization dashboard website  with individual pages to analyze how 
 - Bootstrap 
 - Pandas
 
-## The website must consist of 7 pages total, including:
+## The website consists of 7 pages total, including:
 
 ### A landing page containing:
 An explanation of the project.
